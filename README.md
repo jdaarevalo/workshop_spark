@@ -1,1 +1,1 @@
-# workshop_spark
+# spark_tutorial
